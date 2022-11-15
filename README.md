@@ -8,6 +8,6 @@
 Sathira443/Sathira443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Sathira's github stats](https://github-readme-stats.vercel.app/api?username=Sathira443)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathira443&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathira443"/>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sathira443&theme=highcontrast&show_icons=true&count_private=true)
