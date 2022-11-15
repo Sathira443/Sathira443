@@ -1,7 +1,7 @@
-<h2 align="center">Hi there 👋, I'm Shin!</h2>
+<h1 align="center">Hi there 👋, I'm Sathira Liyanapathirana!</h1>
 <p align="center">
-👀 I’m interested in Web and Mobile App development
-🌱 I’m currently learning BSc in Computer Science and Engineering(University of Moratuwa, Sri Lanka)
+👀 I’m interested in Web and Mobile App development <br>
+🌱 I’m currently learning BSc in Computer Science and Engineering(University of Moratuwa, Sri Lanka) <br>
 📫 How to reach me sathira.19@cse.mrt.ac.lk
 </p>
 
