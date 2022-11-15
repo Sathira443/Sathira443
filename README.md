@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Sathira's github stats](https://github-readme-stats.vercel.app/api?username=Sathira443)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathira443)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathira443"/>
