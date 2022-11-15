@@ -4,11 +4,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center">
-👀 I’m interested in Web and Mobile App development <br>
-🌱 I’m currently learning BSc in Computer Science and Engineering(University of Moratuwa, Sri Lanka) <br>
-📫 How to reach me sathira.19@cse.mrt.ac.lk
-</p>
+---
+
+### :woman_technologist: About Me :
+
+- :telescope: I’m a 3rd year undergraduate and .
+
+- :seedling: I'm interested in frontend and backend for building web and mobile applications.
+
+- :zap: In my free time, I solve problems on Hackerrank and try to explore new technologies.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sathira-liyanapathirana)
 
 <!---
 Sathira443/Sathira443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
