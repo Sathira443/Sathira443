@@ -1,4 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Sathira Liyanapathirana!</h1>
+
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/c0Jwn0I22a3XHgPaft" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/imagilabs-coding-imagi-computer-c0Jwn0I22a3XHgPaft">via GIPHY</a></p>
+</div>
+
 <p align="center">
 👀 I’m interested in Web and Mobile App development <br>
 🌱 I’m currently learning BSc in Computer Science and Engineering(University of Moratuwa, Sri Lanka) <br>
