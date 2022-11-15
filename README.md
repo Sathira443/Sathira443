@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sathira Liyanapathirana!</h1>
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/c0Jwn0I22a3XHgPaft" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <p align="center">
