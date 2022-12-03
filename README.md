@@ -10,7 +10,7 @@
 
 - :telescope: I’m a 3rd year undergraduate of University of Moratuwa, Sri Lanka.
 
-- :seedling: I'm interested in frontend and backend for building web and mobile applications.
+- :seedling: I'm interested in building web and mobile applications.
 
 - :zap: In my free time, I solve problems on Hackerrank and try to explore new technologies.
 
