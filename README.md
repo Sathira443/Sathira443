@@ -39,7 +39,6 @@
 
 ### :woman_technologist: Statistics :
 
-![Sathira's Github Stats](https://github-readme-stats.vercel.app/api?username=Sathira443&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Sathira's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sathira443&theme=neon-palenight&hide_border=true)
 
