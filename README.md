@@ -35,12 +35,11 @@
   
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathira443&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :woman_technologist: Statistics :
 
+[![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathira443)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Sathira's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sathira443&theme=neon-palenight&hide_border=true)
 
