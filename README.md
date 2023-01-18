@@ -39,8 +39,7 @@
 
 ### :woman_technologist: Statistics :
 
-[![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathira443)](https://github.com/anuraghazra/github-readme-stats)
 
-![Sathira's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sathira443&theme=neon-palenight&hide_border=true)
+![Sathira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathira443&show_icons=true&theme=synthwave)
 
 ![](https://komarev.com/ghpvc/?username=Sathira443)
