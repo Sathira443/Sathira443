@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m a 3rd year undergraduate of University of Moratuwa, Sri Lanka.
+- :telescope: I’m a final year undergraduate of University of Moratuwa, Sri Lanka.
 
 - :seedling: I'm interested in building web and mobile applications.
 
