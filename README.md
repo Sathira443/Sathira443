@@ -8,8 +8,6 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m a final year undergraduate of University of Moratuwa, Sri Lanka.
-
 - :seedling: I'm interested in building web and mobile applications.
 
 - :zap: In my free time, I solve problems on Hackerrank and try to explore new technologies.
